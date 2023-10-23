@@ -1,4 +1,4 @@
-# White Paper Draft Outline NexPlay
+# White Paper Summary for "art-de-la-rue"
 
 ## 1. Introduction:
 
